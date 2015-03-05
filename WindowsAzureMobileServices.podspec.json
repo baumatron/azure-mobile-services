@@ -14,7 +14,7 @@
   "requires_arc": true,
   "source": {
     "git": "https://github.com/baumatron/azure-mobile-services.git",
-    "branch": "offline"
+    "branch": "master"
   },
   "source_files": "sdk/iOS/src/*.{h,m}"
 }
