@@ -15,6 +15,7 @@
   "source": {
     "git": "https://github.com/baumatron/azure-mobile-services.git",
     "branch": "master"
+	"tag": "iOS-2.0.0"
   },
   "source_files": "sdk/iOS/src/*.{h,m}"
 }
